@@ -24,9 +24,9 @@
             <h2>Inicio</h2>
             <p>Información general del hurón.</p>
             <ul>
-                <li><a href="https://es.wikipedia.org/wiki/Mustela_putorius_furo">Enlace 1</a></li>
-                <li><a href="https://www.voramargolf.com/Blog/los-hurones-esas-nuevas-mascotas/">Enlace 2</a></li>
-                <li><a href="https://www.hospitalveterinarioasturias.com/2017/06/26/mitos-y-verdades-sobre-los-hurones/">Enlace 3</a></li>
+                <li><a href="https://es.wikipedia.org/wiki/Mustela_putorius_furo">Wikipedia</a></li>
+                <li><a href="https://www.voramargolf.com/Blog/los-hurones-esas-nuevas-mascotas/">voramargolf</a></li>
+                <li><a href="https://www.hospitalveterinarioasturias.com/2017/06/26/mitos-y-verdades-sobre-los-hurones/">hospitalveterinarioasturias</a></li>
             </ul>
             <div class="inicio">
                 <img src="imagenes/huron1.jpg" alt="Hurón 1">
