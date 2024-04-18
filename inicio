@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El hurón</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>El hurón</h1>
+        <nav>
+            <ul>
+                <li><a href="inicio.html">Inicio</a></li>
+                <li><a href="detalles.html">Detalles</a></li>
+                <li><a href="galeria.html">Galería de imágenes</a></li>
+                <li><a href="contacto.html">Formulario de contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="inicio">
+            <h2>Inicio</h2>
+            <p>Información general del hurón.</p>
+            <ul>
+                <li><a href="https://es.wikipedia.org/wiki/Mustela_putorius_furo">Enlace 1</a></li>
+                <li><a href="https://www.voramargolf.com/Blog/los-hurones-esas-nuevas-mascotas/">Enlace 2</a></li>
+                <li><a href="https://www.hospitalveterinarioasturias.com/2017/06/26/mitos-y-verdades-sobre-los-hurones/">Enlace 3</a></li>
+            </ul>
+            <div class="inicio">
+                <img src="imagenes/huron1.jpg" alt="Hurón 1">
+                <img src="imagenes/huron2.jpg" alt="Hurón 2">
+                <img src="imagenes/huron3.jpg" alt="Hurón 3"> 
+        </div>          
+        </section>
+    </main>
+
+    <footer>
+        <p>TNuestro sitio &copy2024</p>
+    </footer>
+</body>
+</html>
